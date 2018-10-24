@@ -5,3 +5,4 @@ spring:
     user:
       name: jordan
       password: 123
+
